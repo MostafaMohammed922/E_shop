@@ -4,6 +4,9 @@ include "Incs/navbar.php";
 include "Incs/slide_show.php";
 ?>
 <section>
+
+
+
 	<div class="container">
 		<div class="row">
 			<?php include "Incs/sidebar.php" ?>
